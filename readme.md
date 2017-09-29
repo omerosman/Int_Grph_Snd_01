@@ -1,6 +1,6 @@
 ## Interactivity && Graphics && Sound
 
-### Due Date : October 6
+### Due Date : October 3
 
 ### Goals:
 
