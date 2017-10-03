@@ -7,4 +7,5 @@ Shawn Lawson    git@github.com:shawnlawson/EV9D9.git
 
 Jazmyn Borman + Igor Carvalho: https://github.com/JSBorman/Stunning-System
 
+Curtis Falkingham git@github.com:soundforascene/Art-CodeProject1.0.git
 ----
